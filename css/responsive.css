@@ -1,0 +1,281 @@
+@media(min-width:992px) and (max-width:1199.98px){
+    #Experience_section {
+        padding: 70px 20px;
+    }
+    .contact_right input {
+        width: 80%;
+    }
+    .contact_right textarea {
+        width: 80%;
+    }
+    .btn {
+        width: 80%;
+    }
+    .contact_right h4 {
+        font-size: 20px;
+    }
+    .contact_left h3 {
+        font-size: 20px;
+    }
+    .contact_left p {
+        color: #fff;
+        font-size: 17px;
+    }
+    .contact_left i {
+        font-size:18px;
+    }
+}
+@media(min-width:768px) and (max-width:991.98px){
+    .main_menu .nav-item .nav-link {
+        font-size: 14px;
+    }
+    .main_menu .nav-item .nav-link:hover {
+        transform: scale(1);
+        /* padding-left: 5px; */
+    }
+    .dev_content h1 {
+        font-size: 40px;
+        padding-top:4px;
+    }
+    .dev_content h3 {
+        font-size: 26px;
+    }
+    .dev_content h4 {
+        font-size: 34px;
+    }
+    .port_img img {
+        padding: 0 25px;
+    }
+    .dev_content p {
+        font-size: 16px;
+    }
+    .about_img img {
+        max-width: 100%;
+    }
+    .about_content h2 {
+        margin-top: 50px;
+        font-size: 36px;
+    }
+    .info_right {
+        margin-left:30px;
+    }
+    #Experience_section {
+        padding: 45px 20px;
+    }
+    #portfolio_section {
+        padding: 60px 20px;
+    }
+    #my_team {
+        padding: 0px 0;
+    }
+    #contact_part {
+        padding: 50px 0;
+    }
+    .contact_right input {
+        width: 80%;
+    }
+    .contact_right textarea {
+        width: 80%;
+    }
+    .btn {
+        width: 80%;
+    }
+    .contact_left p {
+        font-size: 18px;
+    }
+    .contact_left i {
+        font-size: 18px;
+    }
+    .contact_right h4 {
+        font-size: 20px;
+    }
+    .contact_left h3 {
+        font-size: 20px;
+    }
+    .personal_info{
+        padding: 20px;
+       box-shadow: 0 0px 6px 6px rgba(245, 176, 74, 0.8);
+        margin: 40px 10px;
+        border-radius: 5px;
+    }
+}
+@media(min-width:576px) and (max-width:767.98px){
+    #dev_section {
+        padding: 40px 0;
+    }
+    .dev_content h1 {
+        font-size: 45px;
+        padding-top:0;
+    }
+    .dev_content h4 {
+        font-size: 38px;
+    }
+    .dev_content h3 {
+        font-size: 27px;
+    }
+    .about_img img {
+        max-width: 100%;
+    }
+    #about_section {
+        padding: 50px 0;
+    }
+    .header_about h2 {
+        margin-bottom: 60px;
+    }
+    .about_content h2 {
+        margin-top: 50px;
+        font-size: 22px;
+    }
+    .about_content h3 {
+        color: #fff;
+        font-size: 20px;
+        padding-bottom: 9px;
+    }
+    #Experience_section {
+        padding: 38px;
+    }
+    #portfolio_section {
+        padding: 50px 20px;
+    }
+    .personal_info p {
+        font-size: 13px;
+    }
+    .info_right {
+        margin-left: 20px;
+    }
+    .port_img img {
+        max-width: 300px;
+        margin-bottom: 90px;
+    }
+    .dev_content{
+        margin-bottom: 70px;
+    }
+}
+@media(max-width:767.98px){
+    .main_menu .nav-item .nav-link:hover {
+        transform: scale(1);
+        padding-left: 5px;
+    }
+    #my_team {
+        padding: 20px 0;
+    }
+    #contact_part {
+        padding: 30px 5px;
+    }
+    .contact_left p {
+        font-size: 16px;
+    }
+    .contact_left i {
+        font-size: 16px;
+    }
+    .contact_left h3 {
+        padding-bottom: 20px;
+    }
+    .contact_header h2 {
+        text-align: left;
+        font-size: 43px;
+        margin-bottom: 30px;
+    }
+    .contact_right h4 {
+        font-size: 16px;
+    }
+    .contact_right input {
+        width: 80%;
+    }
+    .contact_right textarea {
+        width: 80%;
+    }
+    .btn {
+        width: 80%;
+    }
+    .personal_info{
+        padding: 20px;
+       box-shadow: 0 0px 6px 6px rgba(245, 176, 74, 0.8);
+        margin: 40px 10px;
+        border-radius: 9px;
+    }
+    .rowsss{
+        flex-direction: column-reverse;
+     }
+}
+@media(max-width:575px){
+    #dev_section {
+        background-color: #2b2727;
+        padding: 30px 0;
+    }
+    .dev_content h1 {
+        font-size: 30px;
+        color: var(--primary-color);
+        padding-top:0px;
+    }
+    .dev_content h3 {
+        font-size: 20px;
+    }
+    .dev_content h4 {
+        font-size: 26px;
+    }
+    .dev_content p {
+        font-size: 14px;
+    }
+    .header_about h2 {
+        margin-bottom: 50px;
+        font-size: 42px;
+    }
+    #about_section {
+        padding: 40px 0;
+    }
+    .about_img img {
+        width: 100%;
+    }
+    .about_content h2 {
+        margin-top: 50px;
+    }
+    .about_content h3 {
+        font-size: 18px;
+    }
+    .about_content p {
+        font-size: 15px;
+    }
+    .info {
+        display: block!important;
+    }
+    .port_img img {
+       margin-top:50px;
+    }
+    #Experience_section {
+        padding: 18px;
+    }
+    .experience_header h2 {
+        font-size: 40px;
+        margin: 30px 0;
+    }
+    #portfolio_section {
+        padding: 40px 5px;
+    }
+    .gap {
+        margin: 20px 0;
+    }
+    .team_header h2 {
+        margin-bottom: 45px;
+    }
+    #contact_part {
+        padding: 50px 5px;
+    }
+    .contact_left h3 {
+        font-size: 18px;
+    }
+   
+ 
+    .back_top {
+        bottom: 11px;
+        right: 22px;
+
+    }
+  
+     .port_img img {
+        margin:0 0 50px 0;
+    }
+    .dev_content{
+        margin-bottom: 40px;
+    }
+}
